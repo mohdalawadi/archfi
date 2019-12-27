@@ -81,6 +81,7 @@ chooselanguage(){
   options+=("Brazilian" "(By MaxWilliamJF)")
   options+=("Dutch" "(By bowero)")
   options+=("English" "(By MatMoul)")
+  options+=("Arabic" "(By Mohammad Alawadi)")
   options+=("French" "(By MatMoul)")
   options+=("German" "(By untergrundbiber)")
   options+=("Italian" "(By thegoldgoat)")
